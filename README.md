@@ -1,2 +1,21 @@
-# Hardware
-Keep Track of my Hardware and Devices
+- Desktop
+    - CPU: AMD Ryzen 7 5800X (8 Core/16 Threads)
+    - Mainboard: MSI B550-A PRO (MS-7C56)
+    - RAM: 2 * 16GB DDR4 G.Skill F4-3600C16-16GVKC
+    - Graphics Card: nVIDIA GeForce RTX 3090 Founders Edition
+    - Storage:
+        - SSD 1: Samsung SSD 980 PRO 2TB
+        - SSD 2: Samsung SSD 970 EVO 1TB
+    - Audio
+        - Interface: Rode AI-1
+        - Speaker: Genelec 8030C + 7050C (Subwoofer)
+    - Power Supply:
+    - Case: 
+- Peripherials
+    - Display: Gigabyte M32U
+    - Desk:
+    - Chair:
+- Laptops: Lenovo TBD
+- Smartphones: iPhone 16Pro
+- Tablets: iPad Mini
+- Consoles: NONE
