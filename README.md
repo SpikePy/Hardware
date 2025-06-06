@@ -15,7 +15,7 @@
     - Display: Gigabyte M32U
     - Desk:
     - Chair:
-- Laptops: Lenovo TBD
+- Laptops: Lenovo ThinkPad E14 Gen 3
 - Smartphones: iPhone 16Pro
-- Tablets: iPad Mini
+- Tablets: iPad Mini 6G
 - Consoles: NONE
