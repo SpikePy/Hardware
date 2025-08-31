@@ -10,12 +10,12 @@
         - Interface: Rode AI-1
         - Speaker: Genelec 8030C + 7050C (Subwoofer)
     - Power Supply:
-    - Case: 
+    - Case: Fractal Design Define R6
 - Peripherials
-    - Display: Gigabyte M32U
+    - Display: AOC AG276UZD ( 27" 4K OLED)
     - Desk:
-    - Chair:
+    - Chair: Herman Miller Aeron
 - Laptops: Lenovo ThinkPad E14 Gen 3
-- Smartphones: iPhone 16Pro
+- Smartphones: Nothing Phone 2a
 - Tablets: iPad Mini 6G
 - Consoles: NONE
