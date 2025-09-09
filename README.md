@@ -1,5 +1,6 @@
 - Desktop
     - CPU: AMD Ryzen 7 5800X (8 Core/16 Threads)
+    - Cooler: Noctua NH-D15
     - Mainboard: MSI B550-A PRO (MS-7C56)
     - RAM: 2 * 16GB DDR4 G.Skill F4-3600C16-16GVKC
     - Graphics Card: nVIDIA GeForce RTX 3090 Founders Edition
@@ -8,8 +9,9 @@
         - SSD 2: Samsung SSD 970 EVO 1TB
     - Audio
         - Interface: Rode AI-1
+        - Microphone: 
         - Speaker: Genelec 8030C + 7050C (Subwoofer)
-    - Power Supply:
+    - Power Supply: 
     - Case: Fractal Design Define R6
 - Peripherials
     - Display: AOC AG276UZD ( 27" 4K OLED)
@@ -18,4 +20,5 @@
 - Laptops: Lenovo ThinkPad E14 Gen 3
 - Smartphones: Nothing Phone 2a
 - Tablets: iPad Mini 6G
+- eBook: Kindle Paperwhite (11. Generation)
 - Consoles: NONE
