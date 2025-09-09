@@ -3,7 +3,7 @@
     - Cooler: Noctua NH-D15
     - Mainboard: MSI B550-A PRO (MS-7C56)
     - RAM: 2 * 16GB DDR4 G.Skill F4-3600C16-16GVKC
-    - Graphics Card: nVIDIA GeForce RTX 3090 Founders Edition
+    - Graphics Card: AMD Radeon RX 9070 XT (XFX Swift AMD Radeon RX 9070XT Triple Fan Gaming Edition)
     - Storage:
         - SSD 1: Samsung SSD 980 PRO 2TB
         - SSD 2: Samsung SSD 970 EVO 1TB
