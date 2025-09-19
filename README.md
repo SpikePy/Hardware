@@ -11,7 +11,7 @@
         - Interface: Rode AI-1
         - Microphone: 
         - Speaker: Genelec 8030C + 7050C (Subwoofer)
-    - Power Supply: 
+    - Power Supply: bequiet! STRAIGHT POWER 11 PLATINUM (E11-PT-850W)
     - Case: Fractal Design Define R6
 - Peripherials
     - Display: AOC AG276UZD ( 27" 4K OLED)
