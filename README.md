@@ -1,8 +1,8 @@
 - Desktop
-    - CPU: AMD Ryzen 7 5800X (8 Core/16 Threads)
-    - Cooler: Noctua NH-D15
-    - Mainboard: MSI B550-A PRO (MS-7C56)
-    - RAM: 2 * 16GB DDR4 G.Skill F4-3600C16-16GVKC
+    - CPU: AMD Ryzen 7 9800X3D (8 Core/16 Threads)
+    - Cooler: NOCTUA NH-D15 G2 LBC
+    - Mainboard: Gigabyte X870 Gaming WIFI6
+    - RAM: 2 * 16GB Patriot VIPER VENOM DDR5-6000
     - Graphics Card: AMD Radeon RX 9070 XT (XFX Swift AMD Radeon RX 9070XT Triple Fan Gaming Edition)
     - Storage:
         - SSD 1: Samsung SSD 980 PRO 2TB
@@ -12,7 +12,7 @@
         - Microphone: 
         - Speaker: Genelec 8030C + 7050C (Subwoofer)
     - Power Supply: bequiet! STRAIGHT POWER 11 PLATINUM (E11-PT-850W)
-    - Case: Fractal Design Define R6
+    - Case: Fractal Design Epoch
 - Peripherials
     - Display: AOC AG276UZD ( 27" 4K OLED)
     - Desk:
