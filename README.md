@@ -9,7 +9,7 @@
         - SSD 2: Samsung SSD 970 EVO 1TB
     - Audio
         - Interface: Rode AI-1
-        - Microphone: 
+        - Microphone: audio-technika AT2020
         - Speaker: Genelec 8030C + 7050C (Subwoofer)
     - Power Supply: bequiet! STRAIGHT POWER 11 PLATINUM (E11-PT-850W)
     - Case: Fractal Design Epoch
