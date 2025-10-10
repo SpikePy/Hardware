@@ -18,7 +18,8 @@
     - Desk:
     - Chair: Herman Miller Aeron
 - Laptops: Lenovo ThinkPad E14 Gen 3
-- Smartphones: Nothing Phone 2a
+- Smartphones: Nothing Phone 3a
+- SmartWatch: Garmin Venu X1
 - Tablets: iPad Mini 6G
 - eBook: Kindle Paperwhite (11. Generation)
 - Consoles: NONE
