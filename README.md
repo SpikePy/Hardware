@@ -2,11 +2,12 @@
     - CPU: AMD Ryzen 7 9800X3D (8 Core/16 Threads)
     - Cooler: NOCTUA NH-D15 G2 LBC
     - Mainboard: Gigabyte X870 Gaming WIFI6
-    - RAM: 2 * 16GB Patriot VIPER VENOM DDR5-6000
+    - RAM: 2*16GB Patriot VIPER VENOM DDR5-6000
     - Graphics Card: AMD Radeon RX 9070 XT (XFX Swift AMD Radeon RX 9070XT Triple Fan Gaming Edition)
     - Storage:
-        - SSD 1: Samsung SSD 980 PRO 2TB
-        - SSD 2: Samsung SSD 970 EVO 1TB
+        - SSD 1: Samsung SSD 9100 PRO 4TB
+        - SSD 2: Samsung SSD 980 PRO 2TB
+        - SSD 3: Samsung SSD 970 EVO 1TB
     - Audio
         - Interface: Rode AI-1
         - Microphone: audio-technika AT2020
@@ -20,6 +21,8 @@
 - Laptops: Lenovo ThinkPad E14 Gen 3
 - Smartphones: Nothing Phone 3a
 - SmartWatch: Garmin Venu X1
-- Tablets: iPad Mini 6G
+- Tablets: NONE
 - eBook: Kindle Paperwhite (11. Generation)
 - Consoles: NONE
+- Actioncam: DJI Osmo Action 5
+- Drone: DJI Mini 4K
