@@ -15,7 +15,9 @@
     - Power Supply: bequiet! STRAIGHT POWER 11 PLATINUM (E11-PT-850W)
     - Case: Fractal Design Epoch
 - Peripherials
-    - Display: AOC AG276UZD ( 27" 4K OLED)
+    - Display: AOC AG276UZD (27" 4K OLED)
+    - Mouse: Logitech PRO X SUPERLIGHT 2
+    - Keyaboard: Razer DeathStalker V2 Pro (LowProfile, Lineare Optical Switches, TKL, US-Layout)
     - Desk:
     - Chair: Herman Miller Aeron
 - Laptops: Lenovo ThinkPad E14 Gen 3
