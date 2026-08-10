@@ -6,12 +6,19 @@
     - Graphics Card: AMD Radeon RX 9070 XT (XFX Swift AMD Radeon RX 9070XT Triple Fan Gaming Edition)
     - Storage:
         - SSD 1: Samsung SSD 9100 PRO 4TB
+        - SSD 1: Samsung SSD 9100 PRO 4TB
         - SSD 2: Samsung SSD 980 PRO 2TB
-        - SSD 3: Samsung SSD 970 EVO 1TB
     - Audio
-        - Interface: Rode AI-1
-        - Microphone: audio-technika AT2020
+        - Interfaces:
+            - Rode AI-1
+            - Protocol MAX (DAC)
         - Speaker: Genelec 8030C + 7050C (Subwoofer)
+        - Headphones:
+            - Sennheiser HD 490 Pro (Open Back)
+            - CrinEar Daybreak
+            - CinEar Reference
+            - Moondrop Chu 2
+            - 7HZ x Crinacle Zero: 2
     - Power Supply: bequiet! STRAIGHT POWER 11 PLATINUM (E11-PT-850W)
     - Case: Fractal Design Epoch
 - Peripherials
@@ -20,11 +27,11 @@
     - Keyaboard: Razer DeathStalker V2 Pro (LowProfile, Lineare Optical Switches, TKL, US-Layout)
     - Desk:
     - Chair: Herman Miller Aeron
-- Laptops: Lenovo ThinkPad E14 Gen 3
+- Laptops: TUXEDO InfinityBook Pro AMD Gen10 
 - Smartphones: Nothing Phone 3a
 - SmartWatch: Garmin Venu X1
 - Tablets: NONE
 - eBook: Kindle Paperwhite (11. Generation)
 - Consoles: NONE
-- Actioncam: DJI Osmo Action 5
+- Actioncam: DJI Osmo Action 6
 - Drone: DJI Mini 4K
