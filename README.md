@@ -28,10 +28,10 @@
     - Desk:
     - Chair: Herman Miller Aeron
 - Laptops: TUXEDO InfinityBook Pro AMD Gen10 
-- Smartphones: Nothing Phone 3a
-- SmartWatch: Garmin Venu X1
-- Tablets: NONE
+- Smartphones: Nothing Phone (3)
+- SmartWatch: Garmin Instinct 3 (50 mm, Solar, Tactical Edition)
+- Tablets: GALAXY TAB A11+ (128GB WIFI GRAU)
 - eBook: Kindle Paperwhite (11. Generation)
-- Consoles: NONE
+- Consoles: Steam Deck (OLED 512GB)
 - Actioncam: DJI Osmo Action 6
 - Drone: DJI Mini 4K
