@@ -14,11 +14,17 @@
             - Protocol MAX (DAC)
         - Speaker: Genelec 8030C + 7050C (Subwoofer)
         - Headphones:
-            - Sennheiser HD 490 Pro (Open Back)
-            - CrinEar Daybreak
-            - CinEar Reference
-            - Moondrop Chu 2
-            - 7HZ x Crinacle Zero: 2
+            Wired:
+              - Sennheiser HD 490 Pro (Open Back)
+              - CinEar Reference
+              - CrinEar Daybreak
+              - 7HZ x Crinacle Zero: 2
+              - Moondrop Chu 2
+            Wireless:
+              - Samsung Galaxy Buds 4 Pro
+              - Sennheiser MOMENTUM Sport
+              - Jabra Elite 8 Active
+              - Anker Soundcore AeroClip
     - Power Supply: bequiet! STRAIGHT POWER 11 PLATINUM (E11-PT-850W)
     - Case: Fractal Design Epoch
 - Peripherials
