@@ -11,7 +11,8 @@
     - Audio
         - Interfaces:
             - Rode AI-1
-            - Protocol MAX (DAC)
+            - CrinEar Protocol Max
+            - CrinEar Protocol Micro
         - Speaker: Genelec 8030C + 7050C (Subwoofer)
         - Headphones:
             - Wired:
