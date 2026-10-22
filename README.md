@@ -17,8 +17,9 @@
         - Headphones:
             - Wired:
                 - Sennheiser HD 490 Pro (Open Back)
-                - CinEar Reference
+                - CrinEar Reference
                 - CrinEar Daybreak
+                - CrinEar Nightfall
                 - 7HZ x Crinacle Zero: 2
                 - Moondrop Chu 2
             - Wireless:
@@ -34,7 +35,7 @@
     - Keyaboard: Razer DeathStalker V2 Pro (LowProfile, Lineare Optical Switches, TKL, US-Layout)
     - Desk:
     - Chair: Herman Miller Aeron
-- Laptops: TUXEDO InfinityBook Pro AMD Gen10 
+- Laptops: TUXEDO InfinityBook Pro AMD Gen10
 - Smartphones: Nothing Phone (3)
 - SmartWatch: Garmin Instinct 3 (50 mm, Solar, Tactical Edition)
 - Tablets: GALAXY TAB A11+ (128GB WIFI GRAU)
