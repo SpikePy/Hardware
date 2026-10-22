@@ -39,7 +39,9 @@
 - Smartphones: Nothing Phone (3)
 - SmartWatch: Garmin Instinct 3 (50 mm, Solar, Tactical Edition)
 - Tablets: GALAXY TAB A11+ (128GB WIFI GRAU)
-- eBook: Kindle Paperwhite (11. Generation)
+- eBook:
+    - Kindle Paperwhite (11. Generation)
+    - XTEINK X4 Pro
 - Consoles: Steam Deck (OLED 512GB)
 - Actioncam: DJI Osmo Action 6
 - Drone: DJI Mini 4K
