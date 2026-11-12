@@ -6,8 +6,7 @@
     - Graphics Card: AMD Radeon RX 9070 XT (XFX Swift AMD Radeon RX 9070XT Triple Fan Gaming Edition)
     - Storage:
         - SSD 1: Samsung SSD 9100 PRO 4TB
-        - SSD 1: Samsung SSD 9100 PRO 4TB
-        - SSD 2: Samsung SSD 980 PRO 2TB
+        - SSD 2: Samsung SSD 9100 PRO 4TB
     - Audio
         - Interfaces:
             - Rode AI-1
@@ -36,6 +35,12 @@
     - Desk:
     - Chair: Herman Miller Aeron
 - Laptops: TUXEDO InfinityBook Pro AMD Gen10
+    - AMD Ryzen AI 300
+    - 32GB RAM
+    - 1TB SSD
+- Raspberry Pi 5 (8GB)
+    - SSD 1: Crucial E100 2TB
+    (-  SSD 2: Samsung SSD 980 PRO 2TB)
 - Smartphones: Nothing Phone (3)
 - SmartWatch: Garmin Instinct 3 (50 mm, Solar, Tactical Edition)
 - Tablets: GALAXY TAB A11+ (128GB WIFI GRAU)
